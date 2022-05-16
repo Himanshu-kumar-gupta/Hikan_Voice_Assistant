@@ -1,0 +1,7 @@
+opencv-python
+SpeechRecognition
+pyttsx3
+wikipedia
+wolframalpha
+requests
+PyAudio
