@@ -4,6 +4,9 @@ A voice based intelligent virtual assistant named 'Hikan'. This project is creat
 Contributors to this project are :
 
 Anshuman Mishra
+
 Animesh Deka
+
 Aakash Nath
+
 Himanshu Kumar Gupta
